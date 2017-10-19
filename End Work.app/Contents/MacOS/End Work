@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pkill -f "Spotify.app"
+pkill -f "Google Chrome.app"
+pkill -f "Calendar.app"
+pkill -f "HipChat.app"
+pkill -f "Terminal.app"
